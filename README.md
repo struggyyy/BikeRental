@@ -1,2 +1,2 @@
 # BikeRental
-SQL Bike Renthal Data Base 
+SQL Bike Rental Data Base 
