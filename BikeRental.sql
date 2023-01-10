@@ -189,3 +189,4 @@ SELECT * FROM Discount_Details
 SELECT * FROM Sports_Insurance
 
 SELECT * FROM Renting_Details
+
